@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FadyO97
+- 👋 Hi, I’m Fady Osama
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning data analysis using R programming language, SQL and Tableau
 - 💞️ I’m looking to collaborate on data analysis projects
